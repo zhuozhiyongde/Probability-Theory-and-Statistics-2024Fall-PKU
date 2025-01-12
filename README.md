@@ -1,4 +1,8 @@
-# 信息学中的概率统计
+# Probability-Theory-and-Statistics-2024Fall-PKU
+
+北京大学 2024 年秋季学期信息中的概率统计课程作业、笔记、试题。
+
+## 信息
 
 期中考试：第 9 周周五，第八周及其之前内容
 
@@ -9,7 +13,7 @@
 -   [Github Repo](https://github.com/re-book/ptmst)
 -   [PDF](https://yuxtech.club/math/%E8%8C%86%E8%AF%97%E6%9D%BE%E6%A6%82%E7%8E%87%E8%AE%BALaTeX.pdf)
 
-经验：
+## 经验
 
 老师的 Slide 做的很好，务必要认真地看，考试风格喜欢考作业和课后习题，但难度会比作业更强，课上内容需要掌握每个细节，能够在脱离 Slide 的情况下推出来，或者在 CheatPaper 上打印出来 Slide 的关键步骤（我就吃了大亏，在 CheatPaper 上写了很多其实完全没用上的内容，考试的时候却忘了 Slide 上的关键推导步骤，导致大题寄了好多）
 
