@@ -20,3 +20,7 @@
 作业不仅仅要做出来，还要能够在看到题目的时候立刻知道应该怎么做，否则是不够的。期中期末的考试时间都很紧张，甚至完全无法看 CheatPaper，由于没有额外的补充习题供大家刷，所以只能必须狠狠提高对于作业题和 Slide 的熟练度，否则考试的时候会非常慌张而无法发挥出应有的水平。
 
 CheatPaper 有 2 页，期中带的第 1 页，期末 2 页都带了，但都没用上（哭）。
+
+## 笔记
+
+推荐阅读：[V1CeVersa's Notebook / Probability Basis](https://note.v1ceversaa.cc/Math/Probability%20Basis/)。
